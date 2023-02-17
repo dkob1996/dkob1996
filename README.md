@@ -27,10 +27,10 @@ Latest Youtube Videos
 
 ### Testing Documentation
 
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Checklists](https://github.com/dkob1996/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/dkob1996/Test-Suites_and_Test-Cases)
+- [Bug-Reports](https://github.com/dkob1996/Bug-Reports)
+- [SQL Queries](https://github.com/dkob1996/SQL-Queries)
+- [Postman Collections](https://github.com/dkob1996/Postman-Collections)
 
 Follow Me
