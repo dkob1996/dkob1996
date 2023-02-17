@@ -1,8 +1,8 @@
 [![Header](https://github.com/dkob1996/dkob1996/blob/main/assets/ava12.png)](https://www.facebook.com/profile.php?id=100090091642972)
 
 ## I'm a Junior QA Engineer
-
-Latest Youtube Videos
+## My CV
+[Link to my CV]() (now in process)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
@@ -33,9 +33,10 @@ Latest Youtube Videos
 - [SQL Queries](https://github.com/dkob1996/SQL-Queries)
 - [Postman Collections](https://github.com/dkob1996/Postman-Collections)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)]()
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)]()
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)]()
-[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)]()
+### Follow Me (now in process)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
+[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)]()
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)]()
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)]()
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
+[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)]()
