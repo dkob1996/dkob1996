@@ -43,5 +43,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkob1996&show_icons=true&theme=tokyonight)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkob1996&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkob1996)](https://github.com/anuraghazra/github-readme-stats)
