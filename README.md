@@ -33,4 +33,9 @@ Latest Youtube Videos
 - [SQL Queries](https://github.com/dkob1996/SQL-Queries)
 - [Postman Collections](https://github.com/dkob1996/Postman-Collections)
 
-Follow Me
+### Follow Me
+[![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)]()
+[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)]()
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)]()
+[![Header](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)]()
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
