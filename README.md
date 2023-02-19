@@ -37,6 +37,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/dkob-qa)
 [![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)]()
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](www.linkedin.com/in/dkob-qa)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/dkob_qa)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/dkob_qa/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/dkob1996)
