@@ -33,7 +33,7 @@
 - [SQL Queries](https://github.com/dkob1996/SQL-Queries)
 - [Postman Collections](https://github.com/dkob1996/Postman-Collections)
 
-### Follow Me (now in process)
+### Follow Me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](www.linkedin.com/in/dkob-qa)
 [![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)]()
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/dkob_qa)
