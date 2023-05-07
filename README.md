@@ -43,6 +43,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/dkob1996)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1c96e8)]()
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkob1996&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkob1996&show_icons=true&theme=tokyonight)<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkob1996&hide=powershell&langs_count=8&layout=compact)](https://github.com/dkob1996)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkob1996&hide=python&langs_count=8&layout=compact)](https://github.com/dkob1996)
