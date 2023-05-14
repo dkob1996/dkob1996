@@ -2,7 +2,8 @@
 
 ## I'm a Junior QA Engineer
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/14B1wW4Vg87Wu1_P1optqZ-3dX82-0Z_f/view?usp=sharing)
+[Link to my Custom CV](https://drive.google.com/file/d/1wIxMI2k3AfrOXn2HQEAHP_yrzi16YLvc/view?usp=sharing)
+[Link to my CV from LinkedIn](https://drive.google.com/file/d/1MKl2n-KaIjPU5HBXVQsxk3m7T-JbBt8U/view?usp=sharing)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
