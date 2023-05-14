@@ -3,6 +3,7 @@
 ## I'm a Junior QA Engineer
 ## My CV
 [Link to my Custom CV](https://drive.google.com/file/d/1wIxMI2k3AfrOXn2HQEAHP_yrzi16YLvc/view?usp=sharing)
+<br>
 [Link to my CV from LinkedIn](https://drive.google.com/file/d/1MKl2n-KaIjPU5HBXVQsxk3m7T-JbBt8U/view?usp=sharing)
 
 ### Tools
