@@ -2,7 +2,7 @@
 
 ## I'm a Junior QA Engineer
 ## My CV
-[Link to my CV]([https://drive.google.com/file/d/1wIxMI2k3AfrOXn2HQEAHP_yrzi16YLvc/view?usp=sharing](https://drive.google.com/file/d/1w5FiZcruSVPVc9QRh1hVvFHjBOeevzeF/view?usp=sharing))
+[Link to my CV](https://drive.google.com/file/d/1w5FiZcruSVPVc9QRh1hVvFHjBOeevzeF/view?usp=sharing)
 <br>
 
 ### Tools
