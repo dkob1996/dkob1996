@@ -1,7 +1,7 @@
 [![Header](https://github.com/dkob1996/dkob1996/blob/main/assets/ava12.png)](https://www.facebook.com/profile.php?id=100090091642972)
 
-## I'm a Junior QA Engineer
-## My CV
+## I'm a Quality Assurance Engineer
+## CV
 [Link to my CV](https://drive.google.com/file/d/1w5FiZcruSVPVc9QRh1hVvFHjBOeevzeF/view?usp=sharing)
 <br>
 
